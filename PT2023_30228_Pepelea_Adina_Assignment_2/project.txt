@@ -1,4 +1,4 @@
-[(0,4,3), (3,22,3), (2,22,3), (1,23,2)]
+[(0,12,3), (1,14,3), (2,22,2), (3,26,2)]
 Timp simulare 0
 Coada 1: []
 Coada 2: []
@@ -12,13 +12,13 @@ Timp simulare 3
 Coada 1: []
 Coada 2: []
 Timp simulare 4
-Coada 1: [(0,4,3)]
+Coada 1: []
 Coada 2: []
 Timp simulare 5
-Coada 1: [(0,4,3)]
+Coada 1: []
 Coada 2: []
 Timp simulare 6
-Coada 1: [(0,4,3)]
+Coada 1: []
 Coada 2: []
 Timp simulare 7
 Coada 1: []
@@ -36,20 +36,20 @@ Timp simulare 11
 Coada 1: []
 Coada 2: []
 Timp simulare 12
-Coada 1: []
+Coada 1: [(0,12,3)]
 Coada 2: []
 Timp simulare 13
-Coada 1: []
+Coada 1: [(0,12,3)]
 Coada 2: []
 Timp simulare 14
-Coada 1: []
-Coada 2: []
+Coada 1: [(0,12,3)]
+Coada 2: [(1,14,3)]
 Timp simulare 15
 Coada 1: []
-Coada 2: []
+Coada 2: [(1,14,3)]
 Timp simulare 16
 Coada 1: []
-Coada 2: []
+Coada 2: [(1,14,3)]
 Timp simulare 17
 Coada 1: []
 Coada 2: []
@@ -66,22 +66,22 @@ Timp simulare 21
 Coada 1: []
 Coada 2: []
 Timp simulare 22
-Coada 1: [(3,22,3)]
-Coada 2: [(2,22,3)]
+Coada 1: [(2,22,2)]
+Coada 2: []
 Timp simulare 23
-Coada 1: [(3,22,3), (1,23,2)]
-Coada 2: [(2,22,3)]
+Coada 1: [(2,22,2)]
+Coada 2: []
 Timp simulare 24
-Coada 1: [(3,22,3), (1,23,2)]
-Coada 2: [(2,22,3)]
+Coada 1: []
+Coada 2: []
 Timp simulare 25
-Coada 1: [(1,23,2)]
+Coada 1: []
 Coada 2: []
 Timp simulare 26
-Coada 1: [(1,23,2)]
+Coada 1: [(3,26,2)]
 Coada 2: []
 Timp simulare 27
-Coada 1: []
+Coada 1: [(3,26,2)]
 Coada 2: []
 Timp simulare 28
 Coada 1: []
@@ -179,6 +179,6 @@ Coada 2: []
 Timp simulare 59
 Coada 1: []
 Coada 2: []
-Peek hour is 23.
-Average waiting time is 1.375.
-Average service time is 2.75.
+Peek hour is 14.
+Average waiting time is 1.25.
+Average service time is 2.5.
